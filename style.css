@@ -1,0 +1,32 @@
+/* class selector . */
+
+.color-title {
+  font-weight: normal;
+}
+
+/* id selector # */
+
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orangered;
+}
+
+#green {
+  color: darkgreen;
+}
+
+#yellow {
+  color: yellow;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
